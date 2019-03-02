@@ -9,9 +9,6 @@ Maintained by David das Neves and Sathish VJ with contributions from the Google 
 ![alt text](https://cloud.google.com/images/certifications/professional-certifications.png "Professional")
 ![alt text](https://cloud.google.com/images/certifications/g-suite-certification.png "GSuite")
 
-
-
-
 # Contributing
 
 [Please refer to the contributing guide for details](contributing.md).
@@ -20,10 +17,13 @@ Maintained by David das Neves and Sathish VJ with contributions from the Google 
 Till today, there are 7 certifications available for Google Cloud which are listed below. A complete overview can also be found [here](https://cloud.google.com/certification/).
 
 
-
 ## Google Cloud - Associate Cloud Engineer 
 
-The Google Cloud Associate Engineer is the beginner certficiation in the GCP ecosystem and a great start, if you started recently to learn GCP.
+The Google Cloud Associate Engineer is the beginner certfication in the GCP ecosystem and a great start, if you started recently to learn GCP.
+
+**Official Description:** https://cloud.google.com/certification/cloud-engineer
+
+**Experience: Intermediate**
 
 ### Guides
 #### [Placeholder](https://google.com/)
@@ -42,22 +42,9 @@ ___
 ## Google Cloud - Professional Cloud Architect
 TODO Description
 
-### Guides
-#### [Placeholder](https://google.com/)
+**Official Description:** https://cloud.google.com/certification/cloud-architect/
 
-### Exam / Tests
-#### [Placeholder](https://google.com/)
-
-### Books
-#### [Placeholder](https://google.com/)
-
-### Online Trainings
-#### [Coursera & Linuxacademy](https://google.com/)
-
-___
-
-## Google Cloud - Professional Cloud Developer
-TODO Description
+**Experience: Advanced - Professional**
 
 ### Guides
 #### [Placeholder](https://google.com/)
@@ -76,6 +63,10 @@ ___
 ## Google Cloud - Professional Data Engineer
 TODO Description
 
+**Official Description:** https://cloud.google.com/certification/data-engineer/
+
+**Experience: Advanced - Professional**
+
 ### Guides
 #### [Placeholder](https://google.com/)
 
@@ -93,22 +84,9 @@ ___
 ## Google Cloud - Professional Cloud Developer
 TODO Description
 
-### Guides
-#### [Placeholder](https://google.com/)
+**Official Description:** https://cloud.google.com/certification/cloud-developer/
 
-### Exam / Tests
-#### [Placeholder](https://google.com/)
-
-### Books
-#### [Placeholder](https://google.com/)
-
-### Online Trainings
-#### [Coursera & Linuxacademy](https://google.com/)
-
-___
-
-## Google Cloud - Professional Network Engineer
-TODO Description
+**Experience: Advanced - Professional**
 
 ### Guides
 #### [Placeholder](https://google.com/)
@@ -124,8 +102,34 @@ TODO Description
 
 ___
 
-## Google Cloud - Professional Security Engineer
+## Google Cloud - Professional Cloud Network Engineer
 TODO Description
+
+**Official Description:** https://cloud.google.com/certification/cloud-network-engineer/
+
+**Experience: Professional**
+
+
+### Guides
+#### [Placeholder](https://google.com/)
+
+### Exam / Tests
+#### [Placeholder](https://google.com/)
+
+### Books
+#### [Placeholder](https://google.com/)
+
+### Online Trainings
+#### [Coursera & Linuxacademy](https://google.com/)
+
+___
+
+## Google Cloud - Professional Cloud Security Engineer
+TODO Description
+
+**Official Description:** https://cloud.google.com/certification/cloud-security-engineer/
+
+**Experience: Advanced - Professional**
 
 ### Guides
 #### [Placeholder](https://google.com/)
@@ -143,6 +147,10 @@ ___
 
 ## Google Cloud - GSuite
 TODO Description
+
+**Official Description:** https://cloud.google.com/certification/gsuite/
+
+**Experience: Advanced**
 
 ### Guides
 #### [Placeholder](https://google.com/)
