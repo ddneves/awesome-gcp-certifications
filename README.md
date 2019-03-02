@@ -5,6 +5,13 @@ Contains guides, blog posts, self-assessment quizzes and tutorials.
 
 Maintained by David das Neves and Sathish VJ with contributions from the Google Cloud community. 
 
+![alt text](https://cloud.google.com/images/certifications/associate-certifications.png "Associate")
+![alt text](https://cloud.google.com/images/certifications/professional-certifications.png "Professional")
+![alt text](https://cloud.google.com/images/certifications/g-suite-certification.png "GSuite")
+
+
+
+
 # Contributing
 
 [Please refer to the contributing guide for details](contributing.md).
