@@ -3,11 +3,11 @@
 A curated list of resources for learning about Google Cloud Platform certifications and how to prepare for it.
 Contains guides, blog posts, self-assessment quizzes and tutorials.
 
-Maintained by David das Neves and Sathish VJ with contributions from the GCP communities. 
+Maintained by David das Neves and Sathish VJ with contributions from the Google Cloud community. 
 
 # Contributing
 
-[Please refer to the contributing guide for details](CONTRIBUTING.md).
+[Please refer to the contributing guide for details](contributing.md).
 
 # Google Cloud - Associate Cloud Engineer
 
