@@ -9,20 +9,145 @@ Maintained by David das Neves and Sathish VJ with contributions from the Google 
 
 [Please refer to the contributing guide for details](contributing.md).
 
-# Google Cloud - Associate Cloud Engineer
+# Certifications
+Till today, there are 7 certifications available for Google Cloud which are listed below. A complete overview can also be found [here](https://cloud.google.com/certification/).
 
-# Google Cloud - Professional Cloud Architect
 
-# Google Cloud - Professional Cloud Developer
 
-# Google Cloud - Professional Data Engineer
+## Google Cloud - Associate Cloud Engineer 
 
-# Google Cloud - Professional Cloud Developer
+The Google Cloud Associate Engineer is the beginner certficiation in the GCP ecosystem and a great start, if you started recently to learn GCP.
 
-# Google Cloud - Professional Network Engineer
+### Guides
+#### [Placeholder](https://google.com/)
 
-# Google Cloud - Professional Security Engineer
+### Exam / Tests
+#### [Placeholder](https://google.com/)
 
-# Google Cloud - GSuite
+### Books
+#### [Placeholder](https://google.com/)
 
+### Online Trainings
+#### [Coursera & Linuxacademy](https://google.com/)
+
+___
+
+## Google Cloud - Professional Cloud Architect
+TODO Description
+
+### Guides
+#### [Placeholder](https://google.com/)
+
+### Exam / Tests
+#### [Placeholder](https://google.com/)
+
+### Books
+#### [Placeholder](https://google.com/)
+
+### Online Trainings
+#### [Coursera & Linuxacademy](https://google.com/)
+
+___
+
+## Google Cloud - Professional Cloud Developer
+TODO Description
+
+### Guides
+#### [Placeholder](https://google.com/)
+
+### Exam / Tests
+#### [Placeholder](https://google.com/)
+
+### Books
+#### [Placeholder](https://google.com/)
+
+### Online Trainings
+#### [Coursera & Linuxacademy](https://google.com/)
+
+___
+
+## Google Cloud - Professional Data Engineer
+TODO Description
+
+### Guides
+#### [Placeholder](https://google.com/)
+
+### Exam / Tests
+#### [Placeholder](https://google.com/)
+
+### Books
+#### [Placeholder](https://google.com/)
+
+### Online Trainings
+#### [Coursera & Linuxacademy](https://google.com/)
+
+___
+
+## Google Cloud - Professional Cloud Developer
+TODO Description
+
+### Guides
+#### [Placeholder](https://google.com/)
+
+### Exam / Tests
+#### [Placeholder](https://google.com/)
+
+### Books
+#### [Placeholder](https://google.com/)
+
+### Online Trainings
+#### [Coursera & Linuxacademy](https://google.com/)
+
+___
+
+## Google Cloud - Professional Network Engineer
+TODO Description
+
+### Guides
+#### [Placeholder](https://google.com/)
+
+### Exam / Tests
+#### [Placeholder](https://google.com/)
+
+### Books
+#### [Placeholder](https://google.com/)
+
+### Online Trainings
+#### [Coursera & Linuxacademy](https://google.com/)
+
+___
+
+## Google Cloud - Professional Security Engineer
+TODO Description
+
+### Guides
+#### [Placeholder](https://google.com/)
+
+### Exam / Tests
+#### [Placeholder](https://google.com/)
+
+### Books
+#### [Placeholder](https://google.com/)
+
+### Online Trainings
+#### [Coursera & Linuxacademy](https://google.com/)
+
+___
+
+## Google Cloud - GSuite
+TODO Description
+
+### Guides
+#### [Placeholder](https://google.com/)
+
+### Exam / Tests
+#### [Placeholder](https://google.com/)
+
+### Books
+#### [Placeholder](https://google.com/)
+
+### Online Trainings
+#### [Coursera & Linuxacademy](https://google.com/)
+
+___
 
