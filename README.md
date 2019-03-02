@@ -3,21 +3,34 @@
 A curated list of resources for learning about Google Cloud Platform certifications and how to prepare for it.
 Contains guides, blog posts, self-assessment quizzes and tutorials.
 
-Maintained by David das Neves with contributions from the Google Cloud community. 
+<div align="center"> 
 
 ![alt text](https://cloud.google.com/images/certifications/associate-certifications.png "Associate")
 ![alt text](https://cloud.google.com/images/certifications/professional-certifications.png "Professional")
 ![alt text](https://cloud.google.com/images/certifications/g-suite-certification.png "GSuite")
+</div>
 
 # Contributing
+Maintained by David das Neves with contributions from the Google Cloud community. 
 
 [Please refer to the contributing guide for details](contributing.md).
 
-# Certifications
-Till today, there are 7 certifications available for Google Cloud which are listed below. A complete overview can also be found [here](https://cloud.google.com/certification/).
+# Content
+Till today, there are **7 certifications** available for Google Cloud which are listed below. Choose the one you are interested in and us the reference link to jump directly to the right area. 
 
+- [Google Cloud - Associate Cloud Engineer](#Google-Cloud-\--Associate-Cloud-Engineer)
+- [Google Cloud - Professional Cloud Architect](#Google-Cloud-\--Professional-Cloud-Architect)
+- [Google Cloud - Professional Data Engineer](#Google-Cloud-\--Professional-Data-Engineer)
+- [Google Cloud - Professional Cloud Developer](#Google-Cloud-\--Professional-Cloud-Developer)
+- [Google Cloud - Professional Cloud Network Engineer](#Google-Cloud-\--Professional-Cloud-Network-Engineer)
+- [Google Cloud - Professional Cloud Security Engineer](#Google-Cloud-\--Professional-Cloud-Security-Engineer)
+- [Google Cloud - GSuite](#Google-Cloud-\--GSuite)
 
-## Google Cloud - Associate Cloud Engineer 
+A complete overview can also be found [here](https://cloud.google.com/certification/).
+
+___
+
+# Google Cloud - Associate Cloud Engineer 	
 
 The Google Cloud Associate Engineer is the beginner certfication in the GCP ecosystem and a great start, if you started recently to learn GCP.
 
@@ -53,7 +66,7 @@ The Google Cloud Associate Engineer is the beginner certfication in the GCP ecos
 
 ___
 
-## Google Cloud - Professional Cloud Architect
+# Google Cloud - Professional Cloud Architect
 The Google Cloud Professional Architect certification requires skills on how to build and design architecture designs and validate them on business and technical requirements. In addition, it requires a broad technical overview on GCP services and experience in setting those up. 
 
 **Official Description:** https://cloud.google.com/certification/cloud-architect/
@@ -78,7 +91,7 @@ The Google Cloud Professional Architect certification requires skills on how to 
 
 ___
 
-## Google Cloud - Professional Data Engineer
+# Google Cloud - Professional Data Engineer
 The Google Cloud Professional Data Engineer certification requires a good understanding of all data and ML focused services and dedicated deep-dive knowledge in this area.
 
 **Official Description:** https://cloud.google.com/certification/data-engineer/
@@ -101,7 +114,7 @@ The Google Cloud Professional Data Engineer certification requires a good unders
 
 ___
 
-## Google Cloud - Professional Cloud Developer
+# Google Cloud - Professional Cloud Developer
 The Google Cloud Professional Cloud Developer certification requires a broad set of used services like Kubernetes, how to use the Google Cloud Shell with a broad knowledge on all commands and basic developing knowledge. It should be targeted after accomplishing one of the more general certifications
 
 **Official Description:** https://cloud.google.com/certification/cloud-developer/
@@ -127,7 +140,7 @@ The Google Cloud Professional Cloud Developer certification requires a broad set
 - #### [Coursera - Machine Learning with TensorFlow on Google Cloud Platform Specialization](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp)
 ___
 
-## Google Cloud - Professional Cloud Network Engineer
+# Google Cloud - Professional Cloud Network Engineer
 The Google Cloud Professional Cloud Network Engineer certification requires deep-dive networking knowledge. It is very focused to the networking area, but includes very tough questions and should therefore be targeted be targeted after accomplishing one of the more general certifications and with quite a decent working time in the networking space.
 
 **Official Description:** https://cloud.google.com/certification/cloud-network-engineer/
@@ -150,7 +163,7 @@ The Google Cloud Professional Cloud Network Engineer certification requires deep
 
 ___
 
-## Google Cloud - Professional Cloud Security Engineer
+# Google Cloud - Professional Cloud Security Engineer
 The Google Cloud Professional Cloud Network Engineer certification requires a basic understanding of all best practices on how to set up organizations, projects and services and connecting them to each other. In addition, more security-focused are included w.g. how to secure a dedicated service / cluster and all topics about Policies and Compliance. It should be targeted after a general certification or when only working in the Security space.
 
 **Official Description:** https://cloud.google.com/certification/cloud-security-engineer/
@@ -173,7 +186,7 @@ The Google Cloud Professional Cloud Network Engineer certification requires a ba
 
 ___
 
-## Google Cloud - GSuite
+# Google Cloud - GSuite
 The Google Cloud Certified GSuite certification is a standalone certification for GSuite, which can bidirectional benefit on the GCP certifications. It is a great supplemental certification, if you are organizing a whole organization or when managing the whole GSuite environment. It provides also great insights into the usage of GSuite and can be recommended for everyone using GSuite on a day to day basis.
 
 **Official Description:** https://cloud.google.com/certification/gsuite/
