@@ -26,16 +26,16 @@ The Google Cloud Associate Engineer is the beginner certfication in the GCP ecos
 **Experience: Intermediate**
 
 ### Guides
-#### [Placeholder](https://google.com/)
+- #### [Comprehensive Guide by Sathish VJ](https://medium.com/@sathishvj/writing-and-passing-the-google-cloud-associate-engineer-certification-a60c2f6d99c2)
 
 ### Exam / Tests
-#### [Placeholder](https://google.com/)
+- #### [Placeholder](https://google.com/)
 
 ### Books
-#### [Placeholder](https://google.com/)
+- #### [Placeholder](https://google.com/)
 
 ### Online Trainings
-#### [Coursera & Linuxacademy](https://google.com/)
+- #### [Coursera & Linuxacademy](https://google.com/)
 
 ___
 
@@ -47,16 +47,18 @@ TODO Description
 **Experience: Advanced - Professional**
 
 ### Guides
-#### [Placeholder](https://google.com/)
+- #### [Comprehensive Guide by Sathish VJ](https://medium.com/@sathishvj/notes-from-my-google-cloud-professional-cloud-architect-exam-bbc4299ac30)
+- #### [Comprehensive Guide by David das Neves](https://www.linkedin.com/pulse/how-pass-google-professional-cloud-architect-david-das-neves/)
+
 
 ### Exam / Tests
-#### [Placeholder](https://google.com/)
+- #### [Placeholder](https://google.com/)
 
 ### Books
-#### [Placeholder](https://google.com/)
+- #### [Placeholder](https://google.com/)
 
 ### Online Trainings
-#### [Coursera & Linuxacademy](https://google.com/)
+- #### [Coursera & Linuxacademy](https://google.com/)
 
 ___
 
@@ -68,16 +70,16 @@ TODO Description
 **Experience: Advanced - Professional**
 
 ### Guides
-#### [Placeholder](https://google.com/)
+- #### [Comprehensive Guide by Sathish VJ](https://medium.com/@sathishvj/notes-from-my-google-cloud-professional-data-engineer-exam-530d11966aa0)
 
 ### Exam / Tests
-#### [Placeholder](https://google.com/)
+- #### [Placeholder](https://google.com/)
 
 ### Books
-#### [Placeholder](https://google.com/)
+- #### [Placeholder](https://google.com/)
 
 ### Online Trainings
-#### [Coursera & Linuxacademy](https://google.com/)
+- #### [Coursera & Linuxacademy](https://google.com/)
 
 ___
 
@@ -89,16 +91,18 @@ TODO Description
 **Experience: Advanced - Professional**
 
 ### Guides
-#### [Placeholder](https://google.com/)
+- #### [Comprehensive Guide by David das Neves](https://medium.com/@DaviddasNeves/the-google-cloud-professional-cloud-developer-beta-challenge-48b2ee6109d6)
+- #### [Comprehensive Guide by Sathish VJ](https://medium.com/@sathishvj/notes-from-my-beta-google-cloud-professional-cloud-developer-exam-e5826f6e5de1)
+
 
 ### Exam / Tests
-#### [Placeholder](https://google.com/)
+- #### [Placeholder](https://google.com/)
 
 ### Books
-#### [Placeholder](https://google.com/)
+- #### [Placeholder](https://google.com/)
 
 ### Online Trainings
-#### [Coursera & Linuxacademy](https://google.com/)
+- #### [Coursera & Linuxacademy](https://google.com/)
 
 ___
 
@@ -111,16 +115,16 @@ TODO Description
 
 
 ### Guides
-#### [Placeholder](https://google.com/)
+- #### [Comprehensive Guide by Sathish VJ](https://medium.com/@sathishvj/notes-from-my-beta-google-cloud-professional-network-engineer-certification-exam-2b08d852aae1)
 
 ### Exam / Tests
-#### [Placeholder](https://google.com/)
+- #### [Placeholder](https://google.com/)
 
 ### Books
-#### [Placeholder](https://google.com/)
+- #### [Placeholder](https://google.com/)
 
 ### Online Trainings
-#### [Coursera & Linuxacademy](https://google.com/)
+- #### [Coursera & Linuxacademy](https://google.com/)
 
 ___
 
@@ -132,16 +136,16 @@ TODO Description
 **Experience: Advanced - Professional**
 
 ### Guides
-#### [Placeholder](https://google.com/)
+- #### [Comprehensive Guide by Sathish VJ](https://medium.com/@sathishvj/notes-from-my-beta-google-cloud-professional-security-engineer-certification-exam-bff02c93d757)
 
 ### Exam / Tests
-#### [Placeholder](https://google.com/)
+- #### [Placeholder](https://google.com/)
 
 ### Books
-#### [Placeholder](https://google.com/)
+- #### [Placeholder](https://google.com/)
 
 ### Online Trainings
-#### [Coursera & Linuxacademy](https://google.com/)
+- #### [Coursera & Linuxacademy](https://google.com/)
 
 ___
 
@@ -153,16 +157,16 @@ TODO Description
 **Experience: Advanced**
 
 ### Guides
-#### [Placeholder](https://google.com/)
+- #### [Placeholder](https://google.com/)
 
 ### Exam / Tests
-#### [Placeholder](https://google.com/)
+- #### [Placeholder](https://google.com/)
 
 ### Books
-#### [Placeholder](https://google.com/)
+- #### [Placeholder](https://google.com/)
 
 ### Online Trainings
-#### [Coursera & Linuxacademy](https://google.com/)
+- #### [Coursera & Linuxacademy](https://google.com/)
 
 ___
 
