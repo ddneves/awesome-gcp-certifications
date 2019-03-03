@@ -201,6 +201,7 @@ The Google Cloud Professional Cloud Network Engineer certification requires deep
 ### Guides
 - #### ["Notes from my beta Google Cloud Professional Network Engineer Certification Exam" by Sathish VJ](https://medium.com/@sathishvj/notes-from-my-beta-google-cloud-professional-network-engineer-certification-exam-2b08d852aae1)
 - #### ["Google Professional Cloud Network Engineer Certification" by John Hanley](https://www.jhanley.com/google-professional-network-engineer-certification/)
+- #### ["Google Professional Cloud Network Engineer Beta Exam walkthrough" Dmitri Lerko](https://deploy.live/blog/google-professional-cloud-network-engineer-beta-exam/)
 
 ### Practice Exams / Tests
 - #### [Coming soon](https://cloud.google.com/certification/cloud-network-engineer/)
