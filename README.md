@@ -140,8 +140,7 @@ The Google Cloud Professional Data Engineer certification requires a good unders
 
 
 ### Books
-- #### ["Data Science on the Google Cloud Platform" by 	
-Valliappa Lakshmanan](https://www.amazon.com/Data-Science-Google-Cloud-Platform/dp/1491974567/)
+- #### ["Data Science on the Google Cloud Platform" by Valliappa Lakshmanan](https://www.amazon.com/Data-Science-Google-Cloud-Platform/dp/1491974567/)
 - #### ["Hands-On Machine Learning with Scikit-Learn and TensorFlow" by Aurélien Géron](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291/)
 
 ### Videos / Sessions
@@ -165,13 +164,13 @@ The Google Cloud Professional Cloud Developer certification requires a broad set
 
 **Certification type:** Specialization
 
-
 ### Guides
-- #### [Comprehensive Guide by David das Neves](https://medium.com/@DaviddasNeves/the-google-cloud-professional-cloud-developer-beta-challenge-48b2ee6109d6)
-- #### [Comprehensive Guide by Sathish VJ](https://medium.com/@sathishvj/notes-from-my-beta-google-cloud-professional-cloud-developer-exam-e5826f6e5de1)
+- #### ["The — Google Cloud Professional Cloud Developer — Beta challenge" by David das Neves](https://medium.com/@DaviddasNeves/the-google-cloud-professional-cloud-developer-beta-challenge-48b2ee6109d6)
+- #### ["Notes from my beta Google Cloud Professional Cloud Developer Exam" by Sathish VJ](https://medium.com/@sathishvj/notes-from-my-beta-google-cloud-professional-cloud-developer-exam-e5826f6e5de1)
+- #### ["Google Professional Cloud Developer — Study Guide" by João Vitor Guimarães](https://medium.com/@sathishvj/notes-from-my-beta-google-cloud-professional-cloud-developer-exam-e5826f6e5de1)
 
 ### Practice Exams / Tests
-- #### [Placeholder](https://google.com/)
+- #### [Official Practice Exam]https://cloud.google.com/certification/practice-exam/cloud-developer)
 
 ### Books
 - #### [Google Cloud Platform for Developers](https://www.amazon.com/Google-Cloud-Platform-Developers-solutions/dp/1788837673/)
@@ -180,8 +179,14 @@ The Google Cloud Professional Cloud Developer certification requires a broad set
 - #### ["Top Ten Things to Know for Exam GCP Cloud Developer" by Joe](https://www.youtube.com/watch?v=FtOdgkNv-AU)
 
 ### Online Trainings
-- #### [Coursera - Preparing for the Google Cloud Professional Data Engineer Exam](https://www.coursera.org/learn/preparing-cloud-professional-data-engineer-exam)
-- #### [Coursera - Machine Learning with TensorFlow on Google Cloud Platform Specialization](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp)
+- #### [Coursera - "Google Cloud Platform Fundamentals: Core Infrastructure"](https://www.coursera.org/learn/gcp-fundamentals)
+- #### [Coursera - "Developing Applications with Google Cloud Platform Specialization"](https://www.coursera.org/specializations/developing-apps-gcp)
+- #### [Qwiklabs - "Application Development - Java"](https://google.qwiklabs.com/quests/42)
+- #### [Qwiklabs - "Application Development - Python"](https://google.qwiklabs.com/quests/41)
+- #### [Qwiklabs - "Kubernetes Solutions"](https://google.qwiklabs.com/quests/45)
+- #### [Qwiklabs - "Google Cloud Solutions I: Scaling Your Infrastructure"](https://google.qwiklabs.com/quests/36)
+- #### [Qwiklabs - "Stackdriver"](https://google.qwiklabs.com/quests/35)
+
 ___
 
 # Google Cloud - Professional Cloud Network Engineer
@@ -197,16 +202,21 @@ The Google Cloud Professional Cloud Network Engineer certification requires deep
 - #### [Comprehensive Guide by Sathish VJ](https://medium.com/@sathishvj/notes-from-my-beta-google-cloud-professional-network-engineer-certification-exam-2b08d852aae1)
 
 ### Practice Exams / Tests
-- #### [Placeholder](https://google.com/)
+- #### [Coming soon](https://cloud.google.com/certification/cloud-network-engineer/)
 
 ### Books
-- #### [Placeholder](https://google.com/)
+- #### [Google Cloud Platform for Architects](https://www.amazon.com/Google-Cloud-Platform-Architects-solutions/dp/1788834305/)
+- #### [Google Cloud Platform Cookbook](https://www.amazon.com/Google-Cloud-Platform-Cookbook-applications/dp/1788291999/)
+- #### [Google Cloud Platform in Action](https://www.amazon.com/Google-Cloud-Platform-Action-Geewax/dp/1617293520/)
 
 ### Videos / Sessions
-- #### ["Top Ten Things to Know for Exam GCP Cloud Developer" by Joe](https://www.youtube.com/watch?v=FtOdgkNv-AU)
+- #### ["Cloud OnAir: Google Cloud Networking 101" by CloudOnAir](https://www.youtube.com/watch?v=0hN-dyOV10c)
+- #### ["VPC Deep Dive and Best Practices (Cloud Next '18)" by GCP](https://www.youtube.com/watch?v=wmP6SQe5J7g)
 
 ### Online Trainings
 - #### [Coursera - Networking in Google Cloud Platform Specialization](https://www.coursera.org/specializations/networking-google-cloud-platform)
+- #### [Qwiklabs - Networking in the Google Cloud](https://google.qwiklabs.com/quests/31)
+- #### [Qwiklabs - Network Performance and Optimization](https://google.qwiklabs.com/quests/46)
 
 ___
 
@@ -223,21 +233,27 @@ The Google Cloud Professional Cloud Network Engineer certification requires a ba
 - #### [Comprehensive Guide by Sathish VJ](https://medium.com/@sathishvj/notes-from-my-beta-google-cloud-professional-security-engineer-certification-exam-bff02c93d757)
 
 ### Practice Exams / Tests
-- #### [Placeholder](https://google.com/)
+- #### [Coming Soon](https://cloud.google.com/certification/cloud-security-engineer/)
 
 ### Books
-- #### [Placeholder](https://google.com/)
+- #### [Google Cloud Platform for Architects](https://www.amazon.com/Google-Cloud-Platform-Architects-solutions/dp/1788834305/)
+- #### [Google Cloud Platform Cookbook](https://www.amazon.com/Google-Cloud-Platform-Cookbook-applications/dp/1788291999/)
+- #### [Google Cloud Platform in Action](https://www.amazon.com/Google-Cloud-Platform-Action-Geewax/dp/1617293520/)
 
 ### Videos / Sessions
-- #### ["Top Ten Things to Know for Exam GCP Cloud Developer" by Joe](https://www.youtube.com/watch?v=FtOdgkNv-AU)
+- #### [List - "Professional GCP Cloud Security Engineer - Beta Exam" by Satyen Kumar](https://www.youtube.com/playlist?list=PLAFY3hrExHFF4Df4TTXlvKCdiKIF7SZz2)
 
 ### Online Trainings
 - #### [Coursera - Security in Google Cloud Platform Specialization](https://www.coursera.org/specializations/security-google-cloud-platform)
+- #### [Coursera - Networking in Google Cloud Platform Specialization](https://www.coursera.org/specializations/networking-google-cloud-platform)
+- #### [Qwiklabs - Security & Identity Fundamentals](https://google.qwiklabs.com/quests/40)
+- #### [Qwiklabs - Networking in the Google Cloud](https://google.qwiklabs.com/quests/31)
+- #### [Qwiklabs - Network Performance and Optimization](https://google.qwiklabs.com/quests/46)
 
 ___
 
 # Google Cloud - GSuite
-The Google Cloud Certified GSuite certification is a standalone certification for GSuite, which can bidirectional benefit on the GCP certifications. It is a great supplemental certification, if you are organizing a whole organization or when managing the whole GSuite environment. It provides also great insights into the usage of GSuite and can be recommended for everyone using GSuite on a day to day basis.
+The Google Cloud Certified GSuite certification is a standalone certification for GSuite, which can be bidirectional benefittable on the GCP certifications. By earning the G Suite certification, you prove your ability to complete common workplace activities using cloud-based tools to create and share documents, spreadsheets, presentations, and files. You demonstrate that you can communicate effectively with email and online meeting solutions.
 
 **Official Description:** https://cloud.google.com/certification/gsuite/
 
@@ -246,19 +262,22 @@ The Google Cloud Certified GSuite certification is a standalone certification fo
 **Certification type:** Specialization
 
 ### Guides
-- #### [Placeholder](https://google.com/)
+- #### [Official Exam Guide](https://cloud.google.com/certification/guides/gsuite)
 
 ### Practice Exams / Tests
-- #### [Placeholder](https://google.com/)
+- #### [Official Practice Exam](http://services.google.com/fh/files/misc/g_suite_user_practice_exam.pdf)
 
 ### Books
-- #### [Placeholder](https://google.com/)
+- #### ["Classified - G Suite Training - Webinar" by Matthew Guay](https://www.amazon.com/Ultimate-Guide-Suite-Everything-administer-ebook/dp/B071F5MTZ1)
 
 ### Videos / Sessions
-- #### ["Top Ten Things to Know for Exam GCP Cloud Developer" by Joe](https://www.youtube.com/watch?v=FtOdgkNv-AU)
+- #### ["Top Ten Things to Know for Exam GCP Cloud Developer" by ILE SDS](https://www.youtube.com/watch?v=JdwwOWyPtP8)
 
 ### Online Trainings
 - #### [Coursera - G Suite Administrator Fundamentals](https://www.coursera.org/learn/gsuite-admin-fundamentals)
+- #### [Qwiklabs - G Suite Certification: Practice Lab](https://google.qwiklabs.com/focuses/4051)
+- #### [Google - Applied Digital Skills](https://applieddigitalskills.withgoogle.com/s/en/home)
+- #### [Google - G Suite Training - App](https://chrome.google.com/webstore/detail/g-suite-training/idkloemkmldbemijiamdiolojbffnjlh/related)
 
 ___
 
