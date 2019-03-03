@@ -1,7 +1,7 @@
 # Awesome GCP Certifications [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of resources for learning about Google Cloud Platform certifications and how to prepare for it.
-Contains guides, blog posts, self-assessment quizzes and tutorials.
+Contains guides, blog posts, self-assessment quizzes, tutorials and more.
 
 <div align="center"> 
 
@@ -11,13 +11,13 @@ Contains guides, blog posts, self-assessment quizzes and tutorials.
 </div>
 
 # Contributing
-Maintained by David das Neves with contributions from the Google Cloud community. 
 
 [Please refer to the contributing guide for details](contributing.md).
 
 # Content
 Till today, there are **7 certifications** available for Google Cloud which are listed below. Choose the one you are interested in and us the reference link to jump directly to the right area. 
 
+- [General References](#Google-Cloud-\--Associate-Cloud-Engineer)
 - [Google Cloud - Associate Cloud Engineer](#Google-Cloud-\--Associate-Cloud-Engineer)
 - [Google Cloud - Professional Cloud Architect](#Google-Cloud-\--Professional-Cloud-Architect)
 - [Google Cloud - Professional Data Engineer](#Google-Cloud-\--Professional-Data-Engineer)
@@ -27,6 +27,15 @@ Till today, there are **7 certifications** available for Google Cloud which are 
 - [Google Cloud - GSuite](#Google-Cloud-\--GSuite)
 
 A complete overview can also be found [here](https://cloud.google.com/certification/).
+
+___
+
+# General References
+
+These references include a good overview of further interesting links about the Google Cloud Platform.
+
+- #### ["The Google Cloud Developer Cheat Sheet" by Greg Wilson](https://github.com/gregsramblings/google-cloud-4-words)
+- #### ["Google Cloud - Jumpstart, Tutorials & Community!" by David das Neves](https://www.linkedin.com/pulse/google-cloud-jumpstart-tutorials-community-david-das-neves/)
 
 ___
 
