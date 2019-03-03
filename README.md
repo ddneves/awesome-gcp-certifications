@@ -199,7 +199,8 @@ The Google Cloud Professional Cloud Network Engineer certification requires deep
 **Certification type:** Specialization
 
 ### Guides
-- #### [Comprehensive Guide by Sathish VJ](https://medium.com/@sathishvj/notes-from-my-beta-google-cloud-professional-network-engineer-certification-exam-2b08d852aae1)
+- #### ["Notes from my beta Google Cloud Professional Network Engineer Certification Exam" by Sathish VJ](https://medium.com/@sathishvj/notes-from-my-beta-google-cloud-professional-network-engineer-certification-exam-2b08d852aae1)
+- #### ["Google Professional Cloud Network Engineer Certification" by John Hanley](https://www.jhanley.com/google-professional-network-engineer-certification/)
 
 ### Practice Exams / Tests
 - #### [Coming soon](https://cloud.google.com/certification/cloud-network-engineer/)
@@ -230,7 +231,8 @@ The Google Cloud Professional Cloud Network Engineer certification requires a ba
 **Certification type:** Specialization
 
 ### Guides
-- #### [Comprehensive Guide by Sathish VJ](https://medium.com/@sathishvj/notes-from-my-beta-google-cloud-professional-security-engineer-certification-exam-bff02c93d757)
+- #### ["Notes from my beta Google Cloud Professional Security Engineer Certification Exam" by Sathish VJ](https://medium.com/@sathishvj/notes-from-my-beta-google-cloud-professional-security-engineer-certification-exam-bff02c93d757)
+- #### ["Google Professional Cloud Security Engineer Certification" by John Hanley](https://www.jhanley.com/google-professional-cloud-security-engineer-certification/)
 
 ### Practice Exams / Tests
 - #### [Coming Soon](https://cloud.google.com/certification/cloud-security-engineer/)
