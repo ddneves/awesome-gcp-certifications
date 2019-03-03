@@ -213,6 +213,7 @@ The Google Cloud Professional Cloud Network Engineer certification requires deep
 ### Videos / Sessions
 - #### ["Cloud OnAir: Google Cloud Networking 101" by CloudOnAir](https://www.youtube.com/watch?v=0hN-dyOV10c)
 - #### ["VPC Deep Dive and Best Practices (Cloud Next '18)" by GCP](https://www.youtube.com/watch?v=wmP6SQe5J7g)
+- #### ["Hybrid Connectivity - Reliably Extending Your Enterprise Network to GCP (Cloud Next '18)" by GCP](https://www.youtube.com/watch?v=28ildhOzMSI)
 
 ### Online Trainings
 - #### [Coursera - Networking in Google Cloud Platform Specialization](https://www.coursera.org/specializations/networking-google-cloud-platform)
@@ -233,6 +234,8 @@ The Google Cloud Professional Cloud Network Engineer certification requires a ba
 ### Guides
 - #### ["Notes from my beta Google Cloud Professional Security Engineer Certification Exam" by Sathish VJ](https://medium.com/@sathishvj/notes-from-my-beta-google-cloud-professional-security-engineer-certification-exam-bff02c93d757)
 - #### ["Google Professional Cloud Security Engineer Certification" by John Hanley](https://www.jhanley.com/google-professional-cloud-security-engineer-certification/)
+- #### ["Google Professional Cloud Security Engineer Beta Exam walkthrough" by Dmitri Lerko](http://deploy.live/blog/google-professional-cloud-security-engineer-beta-exam/)
+- #### ["Google Cloud Professional Security Engineer Exam Guide" by Darpan Shah](https://www.linkedin.com/pulse/google-cloud-professional-security-engineer-exam-guide-darpan-shah/)
 
 ### Practice Exams / Tests
 - #### [Coming Soon](https://cloud.google.com/certification/cloud-security-engineer/)
