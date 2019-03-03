@@ -175,7 +175,7 @@ The Google Cloud Professional Cloud Developer certification requires a broad set
 - #### ["Google Professional Cloud Developer — Study Guide" by João Vitor Guimarães](https://medium.com/@joaovitor/professional-cloud-developer-study-guide-309a69400ebc)
 
 ### Practice Exams / Tests
-- #### [Official Practice Exam]https://cloud.google.com/certification/practice-exam/cloud-developer)
+- #### [Official Practice Exam](https://cloud.google.com/certification/practice-exam/cloud-developer)
 
 ### Books
 - #### [Google Cloud Platform for Developers](https://www.amazon.com/Google-Cloud-Platform-Developers-solutions/dp/1788837673/)
