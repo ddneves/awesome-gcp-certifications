@@ -37,6 +37,7 @@ These references include a good overview of further interesting links about the 
 - #### ["The Google Cloud Developer Cheat Sheet" by Greg Wilson](https://github.com/gregsramblings/google-cloud-4-words)
 - #### ["Google Cloud - Jumpstart, Tutorials & Community!" by David das Neves](https://www.linkedin.com/pulse/google-cloud-jumpstart-tutorials-community-david-das-neves/)
 - #### ["Cloud Solutions Architecture Reference"](http://gcp.solutions/)
+- #### ["GCP Building Blocks"](https://docs.google.com/document/d/1-8vSS5rNOWmxVQWmTaWus7V5uZvgWZKY-Nl4bYMWDbk)
 
 ___
 
@@ -99,6 +100,7 @@ The Google Cloud Professional Architect certification requires skills on how to 
 ### Practice Exams / Tests
 - #### [Official Practice Test](https://cloud.google.com/certification/practice-exam/cloud-architect)
 - #### [Udemy - GCP - Professional Cloud Architect (Test your knowledge)](https://www.udemy.com/google-certified-professional-cloud-architect/)
+- #### [Udemy - GCP - Google Cloud Certified - Architect Practice Questions](https://www.udemy.com/google-cloud-certified-architect-practice-questions/)
 
 ### Books
 - #### [Google Cloud Platform for Architects](https://www.amazon.com/Google-Cloud-Platform-Architects-solutions/dp/1788834305/)
