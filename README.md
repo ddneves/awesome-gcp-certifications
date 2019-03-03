@@ -60,17 +60,19 @@ The Google Cloud Associate Engineer is the beginner certfication in the GCP ecos
 
 ### Books
 - #### [Google Cloud Certified Associate Cloud Engineer Study Guide](https://www.amazon.com/Google-Cloud-Certified-Associate-Engineer/dp/1119564417)
+- #### [Google Cloud Platform Cookbook](https://www.amazon.com/Google-Cloud-Platform-Cookbook-applications/dp/1788291999/)
 
 ### Videos / Sessions
 - #### [GCP Associate Cloud Engineer Exam Beta Review](https://www.youtube.com/watch?v=JGL71wfRiqM)
 - #### [Exam Review Bootcamp Top Ten to Know](https://www.youtube.com/watch?v=akK0XtbAwt8)
+- #### [Google Cloud Platform in Action](https://www.amazon.com/Google-Cloud-Platform-Action-Geewax/dp/1617293520/)
 
 ### Online Trainings
 - #### [Coursera - Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals)
 - #### [Coursera - Architecting with Google Cloud Platform Specialization](https://www.coursera.org/specializations/gcp-architecture)
 - #### [Qwiklabs - GCP Essentials](https://google.qwiklabs.com/quests/23)
 - #### [Udemy - Google Cloud Platform Associate Cloud Engineer Bootcamp](https://www.udemy.com/google-cloud-platform-associate-cloud-engineer-bootcamp/)
-- #### [Linuxacademy - Google Cloud Certified Associate Cloud Engineer](https://linuxacademy.com/google-cloud-platform/training/course/name/google-cloud-certified-associate-cloud-engineer)
+- #### [Linux Academy - Google Cloud Certified Associate Cloud Engineer](https://linuxacademy.com/google-cloud-platform/training/course/name/google-cloud-certified-associate-cloud-engineer)
 - #### [Coursera - Introduction to Cloud Identity](https://www.coursera.org/learn/cloud-identity)
 
 ___
@@ -87,16 +89,30 @@ The Google Cloud Professional Architect certification requires skills on how to 
 ### Guides
 - #### ["Notes from my Google Cloud Professional Cloud Architect Exam" by Sathish VJ](https://medium.com/@sathishvj/notes-from-my-google-cloud-professional-cloud-architect-exam-bbc4299ac30)
 - #### ["How to pass - Google Professional Cloud Architect" by David das Neves](https://www.linkedin.com/pulse/how-pass-google-professional-cloud-architect-david-das-neves/)
-
+- #### ["Google Cloud Architect Exam Study Materials" by Earl Gay](https://medium.com/@earlg3/google-cloud-architect-exam-study-materials-5ab327b62bc8)
+- #### ["Google Certified Professional — Cloud Architect — Study Resources" by Agasthi Kothurkar](https://medium.com/@agasthi.kothurkar/google-certified-professional-cloud-architect-study-resources-a66f8f52aac5)
+- #### ["How I Cleared 3 Google Cloud Certifications in 3 Weeks" by Deepak Verma](https://medium.com/@yesdeepakverma/how-i-cleared-all-3-google-cloud-certifications-in-3-weeks-f5591aa22572)
+- #### ["5 Tips to Become a Google Cloud Certified Professional Architect" by Janakiram MSV](https://thenewstack.io/5-tips-to-become-a-google-cloud-certified-professional-architect/)
 
 ### Practice Exams / Tests
-- #### [Placeholder](https://google.com/)
+- #### [Official Practice Test](https://cloud.google.com/certification/practice-exam/cloud-architect)
+- #### [Udemy - GCP - Professional Cloud Architect (Test your knowledge)](https://www.udemy.com/google-certified-professional-cloud-architect/)
 
 ### Books
-- #### [Placeholder](https://google.com/)
+- #### [Google Cloud Platform for Architects](https://www.amazon.com/Google-Cloud-Platform-Architects-solutions/dp/1788834305/)
+- #### [Google Cloud Platform Cookbook](https://www.amazon.com/Google-Cloud-Platform-Cookbook-applications/dp/1788291999/)
+- #### [Google Cloud Platform in Action](https://www.amazon.com/Google-Cloud-Platform-Action-Geewax/dp/1617293520/)
+
+### Videos / Sessions
+- #### ["Preparing for the GCP Cloud Architect certification" by Raphael Soeiro](https://www.youtube.com/watch?v=kM8h_IZWYjA)
+- #### ["Google Cloud Platform Cloud Architect Certification Review Questions Virtual Networking" by Joe](https://www.youtube.com/watch?v=EGum8zDYidk)
+
 
 ### Online Trainings
+- #### [Qwiklabs - GCP Essentials](https://google.qwiklabs.com/quests/23)
+- #### [Qwiklabs - Challenge: GCP Architecture](https://google.qwiklabs.com/quests/47)
 - #### [Coursera - Preparing for the Google Cloud Professional Cloud Architect Exam](https://www.coursera.org/learn/preparing-cloud-professional-cloud-architect-exam)
+- #### [Linux Academy - Google Certified Professional Cloud Architect](https://linuxacademy.com/linux/training/course/name/google-cloud-platform-architect-essentials)
 
 ___
 
@@ -111,12 +127,16 @@ The Google Cloud Professional Data Engineer certification requires a good unders
 
 ### Guides
 - #### [Comprehensive Guide by Sathish VJ](https://medium.com/@sathishvj/notes-from-my-google-cloud-professional-data-engineer-exam-530d11966aa0)
+- #### ["How I Cleared 3 Google Cloud Certifications in 3 Weeks" by Deepak Verma](https://medium.com/@yesdeepakverma/how-i-cleared-all-3-google-cloud-certifications-in-3-weeks-f5591aa22572)
+
 
 ### Practice Exams / Tests
 - #### [Placeholder](https://google.com/)
 
 ### Books
-- #### [Placeholder](https://google.com/)
+- #### [Data Science on the Google Cloud Platform](https://www.amazon.com/Data-Science-Google-Cloud-Platform/dp/1491974567/)
+- #### [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291/)
+
 
 ### Online Trainings
 - #### [Coursera & Linuxacademy](https://google.com/)
@@ -142,7 +162,7 @@ The Google Cloud Professional Cloud Developer certification requires a broad set
 - #### [Placeholder](https://google.com/)
 
 ### Books
-- #### [Placeholder](https://google.com/)
+- #### [Google Cloud Platform for Developers](https://www.amazon.com/Google-Cloud-Platform-Developers-solutions/dp/1788837673/)
 
 ### Online Trainings
 - #### [Coursera - Preparing for the Google Cloud Professional Data Engineer Exam](https://www.coursera.org/learn/preparing-cloud-professional-data-engineer-exam)
