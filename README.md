@@ -17,7 +17,7 @@ Contains guides, blog posts, self-assessment quizzes, tutorials and more.
 # Content
 Till today, there are **7 certifications** available for Google Cloud which are listed below. Choose the one you are interested in and us the reference link to jump directly to the right area. 
 
-- [General References](#Google-Cloud-\--Associate-Cloud-Engineer)
+- [General References](#General-References)
 - [Google Cloud - Associate Cloud Engineer](#Google-Cloud-\--Associate-Cloud-Engineer)
 - [Google Cloud - Professional Cloud Architect](#Google-Cloud-\--Professional-Cloud-Architect)
 - [Google Cloud - Professional Data Engineer](#Google-Cloud-\--Professional-Data-Engineer)
