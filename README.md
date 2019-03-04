@@ -97,6 +97,7 @@ The Google Cloud Professional Architect certification requires skills on how to 
 - #### ["Google Certified Professional — Cloud Architect — Study Resources" by Agasthi Kothurkar](https://medium.com/@agasthi.kothurkar/google-certified-professional-cloud-architect-study-resources-a66f8f52aac5)
 - #### ["How I Cleared 3 Google Cloud Certifications in 3 Weeks" by Deepak Verma](https://medium.com/@yesdeepakverma/how-i-cleared-all-3-google-cloud-certifications-in-3-weeks-f5591aa22572)
 - #### ["5 Tips to Become a Google Cloud Certified Professional Architect" by Janakiram MSV](https://thenewstack.io/5-tips-to-become-a-google-cloud-certified-professional-architect/)
+- #### ["Professional Cloud Architect Certification" by Mete Atamel](https://medium.com/google-cloud/professional-cloud-architect-certification-6a6dfa5c6ff5)
 
 ### Practice Exams / Tests
 - #### [Official Practice Test](https://cloud.google.com/certification/practice-exam/cloud-architect)
