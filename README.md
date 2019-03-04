@@ -4,10 +4,10 @@ A curated list of resources for learning about Google Cloud Platform certificati
 Contains guides, blog posts, self-assessment quizzes, tutorials and more.
 
 <div align="center"> 
-
-![alt text](https://cloud.google.com/images/certifications/associate-certifications.png "Associate")
-![alt text](https://cloud.google.com/images/certifications/professional-certifications.png "Professional")
-![alt text](https://cloud.google.com/images/certifications/g-suite-certification.png "GSuite")
+  
+![alt text](/images/associate-certifications.png "Associate")
+![alt text](/images/professional-certifications.png "Professional")
+![alt text](/images/g-suite-certification.png "GSuite")
 </div>
 
 # Contributing
