@@ -152,6 +152,7 @@ The Google Cloud Professional Data Engineer certification requires a good unders
 
 ### Online Trainings
 - #### [Coursera - "Preparing for the Google Cloud Professional Data Engineer Exam"](https://www.coursera.org/learn/preparing-cloud-professional-data-engineer-exam)
+- #### [Coursera - "Data Engineering on Google Cloud Platform"](https://www.coursera.org/specializations/gcp-data-machine-learning)
 - #### [Linux Academy - "Google Cloud Certified Professional Data Engineer"](https://linuxacademy.com/linux/training/course/name/google-cloud-data-engineer)
 - #### [Udemy - "Preparing for the Google Cloud Professional Data Engineer Exam"](https://www.udemy.com/topic/google-cloud-professional-data-engineer/)
 - #### [Udemy - "An Introduction to Google Cloud Platform for Data Engineers"](https://www.udemy.com/an-introduction-to-google-cloud-platform-for-data-engineers/)
