@@ -77,7 +77,7 @@ The Google Cloud Associate Engineer is the beginner certfication in the GCP ecos
 - #### [Udemy - "Google Cloud Platform Associate Cloud Engineer Bootcamp"](https://www.udemy.com/google-cloud-platform-associate-cloud-engineer-bootcamp/)
 - #### [Linux Academy - "Google Cloud Certified Associate Cloud Engineer"](https://linuxacademy.com/google-cloud-platform/training/course/name/google-cloud-certified-associate-cloud-engineer)
 - #### [Coursera - "Introduction to Cloud Identity"](https://www.coursera.org/learn/cloud-identity)
-- ####  [Udemy -"Google Cloud Associate Cloud Engineer"] (https://www.udemy.com/google-certified-associate-cloud-engineer)
+- #### [Udemy - "Google Cloud Associate Cloud Engineer"](https://www.udemy.com/google-certified-associate-cloud-engineer)
 
 ___
 
