@@ -25,6 +25,7 @@ Till today, there are **7 certifications** available for Google Cloud which are 
 - [Google Cloud - Professional Cloud Network Engineer](#Google-Cloud-\--Professional-Cloud-Network-Engineer)
 - [Google Cloud - Professional Cloud Security Engineer](#Google-Cloud-\--Professional-Cloud-Security-Engineer)
 - [Google Cloud - GSuite](#Google-Cloud-\--GSuite)
+- [Google Cloud - Apigee Certified API Engineer](#Google-Cloud-\--Apigee-Certified-API-Engineer)
 
 A complete overview can also be found [here](https://cloud.google.com/certification/).
 
