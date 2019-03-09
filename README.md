@@ -244,6 +244,7 @@ The Google Cloud Professional Cloud Network Engineer certification requires a ba
 - #### ["Google Professional Cloud Security Engineer Certification" by John Hanley](https://www.jhanley.com/google-professional-cloud-security-engineer-certification/)
 - #### ["Google Professional Cloud Security Engineer Beta Exam walkthrough" by Dmitri Lerko](http://deploy.live/blog/google-professional-cloud-security-engineer-beta-exam/)
 - #### ["Google Cloud Professional Security Engineer Exam Guide" by Darpan Shah](https://www.linkedin.com/pulse/google-cloud-professional-security-engineer-exam-guide-darpan-shah/)
+- #### ["GCP Certified : The GCP Professional Cloud Security Engineer Exam (BETA)" by Antoni Tzavelas](https://antonitzavelas.com/2019/03/08/gcp-certified-the-gcp-professional-cloud-security-engineer-exam-beta/)
 
 ### Practice Exams / Tests
 - #### [Coming Soon](https://cloud.google.com/certification/cloud-security-engineer/)
