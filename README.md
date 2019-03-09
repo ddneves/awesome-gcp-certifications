@@ -219,6 +219,7 @@ The Google Cloud Professional Cloud Network Engineer certification requires deep
 
 ### Videos / Sessions
 - #### ["Cloud OnAir: Google Cloud Networking 101" by CloudOnAir](https://www.youtube.com/watch?v=0hN-dyOV10c)
+- #### ["Cloud OnAir: Google Cloud Networking L200" by CloudOnAir](https://www.youtube.com/watch?v=vDrG15sv5ss)
 - #### ["VPC Deep Dive and Best Practices (Cloud Next '18)" by GCP](https://www.youtube.com/watch?v=wmP6SQe5J7g)
 - #### ["Hybrid Connectivity - Reliably Extending Your Enterprise Network to GCP (Cloud Next '18)" by GCP](https://www.youtube.com/watch?v=28ildhOzMSI)
 
