@@ -39,6 +39,7 @@ These references include a good overview of further interesting links about the 
 - #### ["Google Cloud - Jumpstart, Tutorials & Community!" by David das Neves](https://www.linkedin.com/pulse/google-cloud-jumpstart-tutorials-community-david-das-neves/)
 - #### ["Cloud Solutions Architecture Reference"](http://gcp.solutions/)
 - #### ["GCP Building Blocks"](https://docs.google.com/document/d/1-8vSS5rNOWmxVQWmTaWus7V5uZvgWZKY-Nl4bYMWDbk)
+- #### ["Class Central - Free Online Courses"](https://www.class-central.com/institution/googlecloud)
 
 ___
 
