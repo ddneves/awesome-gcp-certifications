@@ -57,6 +57,7 @@ The Google Cloud Associate Engineer is the beginner certfication in the GCP ecos
 - #### ["How I Cleared 3 Google Cloud Certifications in 3 Weeks" by Deepak Verma](https://medium.com/@yesdeepakverma/how-i-cleared-all-3-google-cloud-certifications-in-3-weeks-f5591aa22572)
 - #### ["Associate Cloud Engineer Certification Exam Overview- Things to do" by Avinash Kumar](https://medium.com/@achilleslinux/associate-cloud-engineer-certification-exam-overview-things-to-do-466c7b9a2885)
 - #### ["Associate Cloud Engineer — Study Guide" by João Vitor Guimarães](https://medium.com/@joaovitor/associate-cloud-engineer-study-guide-cf7e74da1bb6)
+- #### ["Google Cloud Certification : Associate Cloud Engineer" by Raj](https://medium.com/devopslinks/google-cloud-certification-associate-cloud-engineer-dc25765a23e2)
 
 ### Practice Exams / Tests
 - #### [Official Practice Exam](https://cloud.google.com/certification/practice-exam/cloud-engineer)
