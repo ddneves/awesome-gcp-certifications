@@ -40,6 +40,7 @@ These references include a good overview of further interesting links about the 
 - #### ["Cloud Solutions Architecture Reference"](http://gcp.solutions/)
 - #### ["GCP Building Blocks"](https://docs.google.com/document/d/1-8vSS5rNOWmxVQWmTaWus7V5uZvgWZKY-Nl4bYMWDbk)
 - #### ["Class Central - Free Online Courses"](https://www.class-central.com/institution/googlecloud)
+- #### ["How to pass your Google Cloud Platform Professional Data Engineer exam"](https://www.slideshare.net/vinoaj/measure-camp-how-to-pass-your-gcp-professional-data-engineer-exam-20181020)
 
 ___
 
