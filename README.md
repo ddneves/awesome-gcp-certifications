@@ -40,7 +40,7 @@ These references include a good overview of further interesting links about the 
 - #### ["Cloud Solutions Architecture Reference"](http://gcp.solutions/)
 - #### ["GCP Building Blocks"](https://docs.google.com/document/d/1-8vSS5rNOWmxVQWmTaWus7V5uZvgWZKY-Nl4bYMWDbk)
 - #### ["Class Central - Free Online Courses"](https://www.class-central.com/institution/googlecloud)
-- #### ["How to pass your Google Cloud Platform Professional Data Engineer exam"](https://www.slideshare.net/vinoaj/measure-camp-how-to-pass-your-gcp-professional-data-engineer-exam-20181020)
+
 
 ___
 
@@ -140,6 +140,7 @@ The Google Cloud Professional Data Engineer certification requires a good unders
 - #### ["Google Cloud Professional Data Engineer Certification— my personal study guide!" by Guang X](https://medium.com/weareservian/google-cloud-data-engineer-exam-study-guide-9afc80be2ee3)
 - #### ["How I Cleared 3 Google Cloud Certifications in 3 Weeks" by Deepak Verma](https://medium.com/@yesdeepakverma/how-i-cleared-all-3-google-cloud-certifications-in-3-weeks-f5591aa22572)
 - #### ["GCP Certified Data Engineer in 3 Weeks" by Avinash Gupta](https://medium.com/@avinash.gupta/gcp-certified-data-engineer-in-3-weeks-345ecfa667c3)
+- #### ["How to pass your Google Cloud Platform Professional Data Engineer exam" by vinoaj](https://www.slideshare.net/vinoaj/measure-camp-how-to-pass-your-gcp-professional-data-engineer-exam-20181020)
 
 
 ### Practice Exams / Tests
