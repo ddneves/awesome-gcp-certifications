@@ -14,7 +14,7 @@ Contains guides, blog posts, self-assessment quizzes, tutorials and more.
 [Please refer to the contributing guide for details](contributing.md).
 
 # Content
-Till today, there are **7 certifications** available for Google Cloud which are listed below. Choose the one you are interested in and us the reference link to jump directly to the right area. 
+Till today, there are **8 certifications** available for Google Cloud which are listed below. Choose the one you are interested in and us the reference link to jump directly to the right area. 
 
 - [General References](#General-References)
 - [Google Cloud - Associate Cloud Engineer](#Google-Cloud-\--Associate-Cloud-Engineer)
