@@ -4,7 +4,9 @@ A curated list of resources for learning about Google Cloud Platform certificati
 Contains guides, blog posts, self-assessment quizzes, tutorials and more.
 
 <div align="center"> 
-![alt text](/images/GCP_certs.jpeg "GCP certifications")
+  
+![alt text](/images/GCP_certs.png "GCP certifications")
+
 </div>
 
 # Contributing
