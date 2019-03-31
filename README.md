@@ -39,6 +39,7 @@ These references include a good overview of further interesting links about the 
 - #### ["Cloud Solutions Architecture Reference"](http://gcp.solutions/)
 - #### ["GCP Building Blocks"](https://docs.google.com/document/d/1-8vSS5rNOWmxVQWmTaWus7V5uZvgWZKY-Nl4bYMWDbk)
 - #### ["Class Central - Free Online Courses"](https://www.class-central.com/institution/googlecloud)
+- #### ["FREE codes for Qwiklabs" by Sathish VJ](https://medium.com/@sathishvj/qwiklabs-free-codes-gcp-and-aws-e40f3855ffdb)
 
 
 ___
