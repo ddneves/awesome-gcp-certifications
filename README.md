@@ -139,6 +139,7 @@ The Google Cloud Professional Data Engineer certification requires a good unders
 **Experience:** Advanced - Professional
 
 ### Guides
+- #### ["Google Cloud - Professional Data Engineer Exam Study Materials" by Leverege Developers](https://github.com/Leverege/gcp-data-engineer-exam)
 - #### ["Google Cloud Certified Professional Data Engineer - 2019 Updated exam" by Dmitri Lerko](https://deploy.live/blog/google-cloud-certified-professional-data-engineer/)
 - #### ["Notes from my Google Cloud Professional Data Engineer Exam" by Sathish VJ](https://medium.com/@sathishvj/notes-from-my-google-cloud-professional-data-engineer-exam-530d11966aa0)
 - #### ["Google Cloud Professional Data Engineer Certification— my personal study guide!" by Guang X](https://medium.com/weareservian/google-cloud-data-engineer-exam-study-guide-9afc80be2ee3)
