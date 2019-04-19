@@ -110,6 +110,7 @@ The Google Cloud Professional Architect certification requires skills on how to 
 - #### [Official Practice Test](https://cloud.google.com/certification/practice-exam/cloud-architect)
 - #### [Udemy - GCP - Professional Cloud Architect (Test your knowledge)](https://www.udemy.com/google-certified-professional-cloud-architect/)
 - #### [Udemy - GCP - Google Cloud Certified - Architect Practice Questions](https://www.udemy.com/google-cloud-certified-architect-practice-questions/)
+- #### [Whizlabs - GCP - Google Cloud Certified - Architect Practice Questions](https://www.whizlabs.com/google-cloud-certified-professional-cloud-architect/)
 
 ### Books
 - #### [Google Cloud Platform for Architects](https://www.amazon.com/Google-Cloud-Platform-Architects-solutions/dp/1788834305/)
