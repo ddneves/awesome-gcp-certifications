@@ -73,8 +73,7 @@ The Google Cloud Associate Engineer is the beginner certfication in the GCP ecos
 - #### ["Google Cloud Platform in Action" by JJ Geewax](https://www.amazon.com/Google-Cloud-Platform-Action-Geewax/dp/1617293520/)
 
 ### Videos / Sessions
-- #### ["GCP Associate Cloud Engineer Exam Beta Review" by Joe](https://www.youtube.com/watch?v=JGL71wfRiqM)
-- #### ["Exam Review Bootcamp Top Ten to Know" by Joe](https://www.youtube.com/watch?v=akK0XtbAwt8)
+- 
 
 
 ### Online Trainings
