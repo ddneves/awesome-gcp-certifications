@@ -299,7 +299,7 @@ The Google Cloud Certified GSuite certification is a standalone certification fo
 
 ### Videos / Sessions
 - #### ["Top Ten Things to Know for Exam GCP Cloud Developer" by ILE SDS](https://www.youtube.com/watch?v=JdwwOWyPtP8)
-
+- #### ["G-suite videos courses" by G-Suite Training](https://portal.synergyse.com/a/#videos/en/mail)
 ### Online Trainings
 - #### [Coursera - G Suite Administrator Fundamentals](https://www.coursera.org/learn/gsuite-admin-fundamentals)
 - #### [Qwiklabs - G Suite Certification: Practice Lab](https://google.qwiklabs.com/focuses/4051)
