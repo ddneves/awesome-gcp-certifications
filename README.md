@@ -243,7 +243,7 @@ The Google Cloud Professional Cloud Network Engineer certification requires deep
 ___
 
 # Google Cloud - Professional Cloud Security Engineer
-The Google Cloud Professional Cloud Network Engineer certification requires a basic understanding of all best practices on how to set up organizations, projects and services and connecting them to each other. In addition, more security-focused are included w.g. how to secure a dedicated service / cluster and all topics about Policies and Compliance. It should be targeted after a general certification or when only working in the Security space.
+The Google Cloud Professional Cloud Security Engineer certification requires a basic understanding of all best practices on how to set up organizations, projects and services and connecting them to each other. In addition, more security-focused are included w.g. how to secure a dedicated service / cluster and all topics about Policies and Compliance. It should be targeted after a general certification or when only working in the Security space.
 
 **Official Description:** https://cloud.google.com/certification/cloud-security-engineer/
 
@@ -260,7 +260,7 @@ The Google Cloud Professional Cloud Network Engineer certification requires a ba
 - #### ["Google Professional Cloud Security Engineer — Beta exam review" by Rakesh Sharma](https://medium.com/@techie.rakesh/google-professional-cloud-security-engineer-beta-exam-review-e21445bc2979)
 
 ### Practice Exams / Tests
-- #### [Coming Soon](https://cloud.google.com/certification/cloud-security-engineer/)
+- #### [Professional Cloud Security Engineer Practice Exam](https://cloud.google.com/certification/practice-exam/cloud-security-engineer)
 
 ### Books
 - #### [Google Cloud Platform for Architects](https://www.amazon.com/Google-Cloud-Platform-Architects-solutions/dp/1788834305/)
