@@ -41,6 +41,7 @@ These references include a good overview of further interesting links about the 
 - #### ["Class Central - Free Online Courses"](https://www.class-central.com/institution/googlecloud)
 - #### ["FREE codes for Qwiklabs" by Sathish VJ](https://medium.com/@sathishvj/qwiklabs-free-codes-gcp-and-aws-e40f3855ffdb)
 - #### ["Google Cloud Platform Authorized Trainer" by Sathish VJ](https://medium.com/@sathishvj/google-cloud-platform-authorized-trainer-1b202f3eef61)
+- #### ["Get GCP Certified" by Samuel Lee](https://www.getgcpcertified.com/)
 
 
 
