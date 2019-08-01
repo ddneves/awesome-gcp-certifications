@@ -220,6 +220,7 @@ The Google Cloud Professional Cloud Network Engineer certification requires deep
 - #### ["Notes from my beta Google Cloud Professional Network Engineer Certification Exam" by Sathish VJ](https://medium.com/@sathishvj/notes-from-my-beta-google-cloud-professional-network-engineer-certification-exam-2b08d852aae1)
 - #### ["Google Professional Cloud Network Engineer Certification" by John Hanley](https://www.jhanley.com/google-professional-network-engineer-certification/)
 - #### ["Google Professional Cloud Network Engineer Beta Exam walkthrough" Dmitri Lerko](https://deploy.live/blog/google-professional-cloud-network-engineer-beta-exam/)
+- #### ["Google Cloud Network Engineer Exam Experience: Fail-Fast. Learn. Pass." by Jaroslav Pantsjoha](https://medium.com/@jpantjsoha/google-cloud-network-engineer-exam-experience-fail-fast-learn-pass-1d913e18888)
 
 ### Practice Exams / Tests
 - #### [Coming soon](https://cloud.google.com/certification/cloud-network-engineer/)
@@ -234,6 +235,7 @@ The Google Cloud Professional Cloud Network Engineer certification requires deep
 - #### ["Cloud OnAir: Google Cloud Networking L200" by CloudOnAir](https://www.youtube.com/watch?v=vDrG15sv5ss)
 - #### ["VPC Deep Dive and Best Practices (Cloud Next '18)" by GCP](https://www.youtube.com/watch?v=wmP6SQe5J7g)
 - #### ["Hybrid Connectivity - Reliably Extending Your Enterprise Network to GCP (Cloud Next '18)" by GCP](https://www.youtube.com/watch?v=28ildhOzMSI)
+- #### ["Curated Networking playlist: Best Practices, VPC, GCE, Kubernetes (Kubecon, Cloud Next '18 '19)" by Jaroslav Pantsjoha](https://www.youtube.com/playlist?list=PLxQzKf1gjjCPfFXjRa1pa-ykwBhKs4T0J)
 
 ### Online Trainings
 - #### [Coursera - Networking in Google Cloud Platform Specialization](https://www.coursera.org/specializations/networking-google-cloud-platform)
