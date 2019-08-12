@@ -74,7 +74,7 @@ The Google Cloud Associate Engineer is the beginner certfication in the GCP ecos
 - #### ["Google Cloud Platform in Action" by JJ Geewax](https://www.amazon.com/Google-Cloud-Platform-Action-Geewax/dp/1617293520/)
 
 ### Videos / Sessions
-- 
+- #### [getgcpcertified.com - "Managing GCP Resources & Cloud Deployment Manager vs Cloud Launcher"](https://www.getgcpcertified.com/p/free-trial-associate-cloud-engineer)
 
 
 ### Online Trainings
@@ -120,6 +120,7 @@ The Google Cloud Professional Architect certification requires skills on how to 
 ### Videos / Sessions
 - #### ["Preparing for the GCP Cloud Architect certification" by Raphael Soeiro](https://www.youtube.com/watch?v=kM8h_IZWYjA)
 - #### ["Google Cloud Platform Cloud Architect Certification Review Questions Virtual Networking" by Joe](https://www.youtube.com/watch?v=EGum8zDYidk)
+- #### [getgcpcertified.com - "DevOps in GCP & Site Reliability Engineering Ideas"](https://www.getgcpcertified.com/p/free-trial-professional-cloud-architect)
 
 
 ### Online Trainings
@@ -160,6 +161,7 @@ The Google Cloud Professional Data Engineer certification requires a good unders
 
 ### Videos / Sessions
 - #### [Videos - "GCP data engineer certification review" by John](https://www.youtube.com/playlist?list=PL44lENRqK1vwC_y_CHT-drcyS62qXIbH_)
+- #### [getgcpcertified.com - "BigQuery and Machine Learning in GCP"](https://www.getgcpcertified.com/p/free-trial-professional-data-engineer)
 
 ### Online Trainings
 - #### [Coursera - "Preparing for the Google Cloud Professional Data Engineer Exam"](https://www.coursera.org/learn/preparing-cloud-professional-data-engineer-exam)
