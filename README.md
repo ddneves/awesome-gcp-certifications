@@ -263,6 +263,7 @@ The Google Cloud Professional Cloud Security Engineer certification requires a b
 - #### ["Google Cloud Professional Security Engineer Exam Guide" by Darpan Shah](https://www.linkedin.com/pulse/google-cloud-professional-security-engineer-exam-guide-darpan-shah/)
 - #### ["GCP Certified : The GCP Professional Cloud Security Engineer Exam (BETA)" by Antoni Tzavelas](https://antonitzavelas.com/2019/03/08/gcp-certified-the-gcp-professional-cloud-security-engineer-exam-beta/)
 - #### ["Google Professional Cloud Security Engineer — Beta exam review" by Rakesh Sharma](https://medium.com/@techie.rakesh/google-professional-cloud-security-engineer-beta-exam-review-e21445bc2979)
+- #### ["Google Cloud Security Exam Experience: RTFQ twice" by Jaroslav Pantsjoha](https://medium.com/@jpantjsoha/google-cloud-security-exam-experience-8c4c973a86d6)
 
 ### Practice Exams / Tests
 - #### [Professional Cloud Security Engineer Practice Exam](https://cloud.google.com/certification/practice-exam/cloud-security-engineer)
@@ -274,6 +275,7 @@ The Google Cloud Professional Cloud Security Engineer certification requires a b
 
 ### Videos / Sessions
 - #### [List - "Professional GCP Cloud Security Engineer - Beta Exam" by Satyen Kumar](https://www.youtube.com/playlist?list=PLAFY3hrExHFF4Df4TTXlvKCdiKIF7SZz2)
+- #### [List - "Google Cloud Professional Security Engineer" by Jaroslav Pantsjoha](https://www.youtube.com/playlist?list=PLxQzKf1gjjCPqkPeX0pJqI9lp2Ifyy1oW)
 
 ### Online Trainings
 - #### [Coursera - Security in Google Cloud Platform Specialization](https://www.coursera.org/specializations/security-google-cloud-platform)
