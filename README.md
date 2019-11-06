@@ -1,3 +1,9 @@
+#This repository is outdated - for further materials have a look here:
+https://github.com/sathishvj/awesome-gcp-certifications
+
+
+
+
 # Awesome GCP Certifications [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of resources for learning about Google Cloud Platform certifications and how to prepare for it.
