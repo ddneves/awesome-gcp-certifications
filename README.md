@@ -1,4 +1,4 @@
-#This repository is outdated - for further materials have a look here:
+# This repository is outdated - for further materials have a look here:
 https://github.com/sathishvj/awesome-gcp-certifications
 
 
