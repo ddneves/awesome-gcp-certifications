@@ -232,7 +232,7 @@ The Google Cloud Professional Cloud Network Engineer certification requires deep
 - #### ["Google Cloud Network Engineer Exam Experience: Fail-Fast. Learn. Pass." by Jaroslav Pantsjoha](https://medium.com/@jpantjsoha/google-cloud-network-engineer-exam-experience-fail-fast-learn-pass-1d913e18888)
 
 ### Practice Exams / Tests
-- #### [Coming soon](https://cloud.google.com/certification/cloud-network-engineer/)
+- #### [Cloud Network Engineer Practice Test](https://cloud.google.com/certification/practice-exam/cloud-network-engineer)
 
 ### Books
 - #### [Google Cloud Platform for Architects](https://www.amazon.com/Google-Cloud-Platform-Architects-solutions/dp/1788834305/)
@@ -250,6 +250,11 @@ The Google Cloud Professional Cloud Network Engineer certification requires deep
 - #### [Coursera - Networking in Google Cloud Platform Specialization](https://www.coursera.org/specializations/networking-google-cloud-platform)
 - #### [Qwiklabs - Networking in the Google Cloud](https://google.qwiklabs.com/quests/31)
 - #### [Qwiklabs - Network Performance and Optimization](https://google.qwiklabs.com/quests/46)
+- #### [Linux Academy- GCP Network Concepts](https://linuxacademy.com/cp/modules/view/id/437)
+- #### [Linux Academy- GCP Network Management](https://linuxacademy.com/cp/modules/view/id/438)
+- #### [Linux Academy- GCP Hybrid Networking](https://linuxacademy.com/cp/modules/view/id/439)
+- #### [Linux Academy- GCP Network Design & Monitoring](https://linuxacademy.com/cp/modules/view/id/440)
+
 
 ___
 
