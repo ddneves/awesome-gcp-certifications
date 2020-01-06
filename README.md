@@ -154,6 +154,7 @@ The Google Cloud Professional Data Engineer certification requires a good unders
 - #### ["How I Cleared 3 Google Cloud Certifications in 3 Weeks" by Deepak Verma](https://medium.com/@yesdeepakverma/how-i-cleared-all-3-google-cloud-certifications-in-3-weeks-f5591aa22572)
 - #### ["GCP Certified Data Engineer in 3 Weeks" by Avinash Gupta](https://medium.com/@avinash.gupta/gcp-certified-data-engineer-in-3-weeks-345ecfa667c3)
 - #### ["How to pass your Google Cloud Platform Professional Data Engineer exam" by vinoaj](https://www.slideshare.net/vinoaj/measure-camp-how-to-pass-your-gcp-professional-data-engineer-exam-20181020)
+- #### ["How to pass the Google Cloud Professional Data Engineer exam" by Jonathan M](https://towardsdatascience.com/how-to-pass-the-google-cloud-professional-data-engineer-exam-f241d7191e47?source=friends_link&sk=ede0b669e5bf68a8e699a3443b9fb087)
 
 
 ### Practice Exams / Tests
