@@ -134,6 +134,7 @@ The Google Cloud Professional Architect certification requires skills on how to 
 - #### [Qwiklabs - "Challenge: GCP Architecture"](https://google.qwiklabs.com/quests/47)
 - #### [Coursera - "Preparing for the Google Cloud Professional Cloud Architect Exam"](https://www.coursera.org/learn/preparing-cloud-professional-cloud-architect-exam)
 - #### [Linux Academy - "Google Certified Professional Cloud Architect"](https://linuxacademy.com/linux/training/course/name/google-cloud-platform-architect-essentials)
+- #### [Intellipaat - "To clear Google Professional Cloud Architect Certification Exam"](https://intellipaat.com/google-cloud-certification-architect-training/)
 
 ___
 
